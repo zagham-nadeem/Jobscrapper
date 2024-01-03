@@ -1,0 +1,5 @@
+Flask
+pandas
+python-jobspy  # Specify the correct version if required
+gunicorn
+waitress
